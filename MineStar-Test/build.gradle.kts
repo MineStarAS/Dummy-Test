@@ -1,7 +1,7 @@
 group = "kr.kro.minestar"
 version = "1.0.0"
 
-val copyPath = File("C:\\Users\\MineStar\\Desktop\\MC Server folder\\MCserver 1.19 - vanilla\\plugins")
+val copyPath = File("C:\\Users\\MineStar\\Desktop\\MC Server folder\\MCserver 1.18.1 - vanilla\\plugins")
 
 tasks {
     compileKotlin {

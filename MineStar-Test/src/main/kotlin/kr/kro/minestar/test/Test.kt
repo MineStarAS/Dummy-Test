@@ -1,13 +1,11 @@
 package kr.kro.minestar.test
 
-import jdk.internal.org.jline.reader.Macro
-import java.awt.*
+import java.awt.Component
+import java.awt.MouseInfo
+import java.awt.Robot
 import java.awt.event.KeyEvent
 import java.awt.event.KeyListener
-import java.awt.event.MouseListener
-import java.io.Console
 import java.util.*
-import javax.swing.JFrame
 import kotlin.concurrent.timer
 
 fun main() {

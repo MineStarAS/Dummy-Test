@@ -1,6 +1,6 @@
 package kr.kro.minestar.test
 
-import kr.kro.minestar.currency.data.Currency
+
 import kr.kro.minestar.utility.command.*
 import kr.kro.minestar.utility.string.toPlayer
 
@@ -40,8 +40,6 @@ object Command : FunctionalCommand {
             null -> plugin.name.toPlayer(player)
 
             Arg.test1 -> {
-                val currency = Currency.currencySet().first()
-                player.inventory.addItem(currency.icon())
             }
             Arg.test2 -> {}
             Arg.test3 -> {}
