@@ -1,3 +1,3 @@
-rootProject.name = "MineCraftDefaultProject"
-include("MineStar-Plugin")
+rootProject.name = "Dummy-Test"
+include("MineStar-Test")
 include("MineStar-Plugin-API")

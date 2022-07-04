@@ -12,8 +12,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MineStar-Plugin" />
             <option value="$PROJECT_DIR$/MineStar-Plugin-API" />
+            <option value="$PROJECT_DIR$/MineStar-Test" />
           </set>
         </option>
       </GradleProjectSettings>

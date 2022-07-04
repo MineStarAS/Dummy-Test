@@ -36,9 +36,7 @@ subprojects {
         compileOnly("net.kyori:adventure-api:4.10.1")
         compileOnly("io.papermc.paper:paper-api:1.18.1-R0.1-SNAPSHOT")
 
-        //project_TL
-
-        //MineStar
-        implementation("com.github.MineStarAS:Utility-API:1.0.0")
+        implementation("com.github.MineStarAS:Utility-API:1.2.7")
+        compileOnly("com.github.MineStarAS:System-Currency-API:1.0.0")
     }
 }
